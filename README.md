@@ -11,13 +11,9 @@ Pizza Master est une application Android native présentant une interface utilis
 
 ## Vidéo de Démonstration
 
-https://github.com/user-attachments/assets/demo/demo.mp4
+Vous pouvez visionner la vidéo complète de démonstration de l'application en cliquant sur le lien ci-dessous :
 
----
-*Si le lecteur vidéo ne s'affiche pas correctement selon votre outil de lecture Markdown, vous pouvez également consulter le fichier directement :*
-<br>**[Cliquez ici pour voir la Vidéo de Démonstration](assets/demo/demo.mp4)**
-<br>Ou utilisez ce lecteur : <br>
-<video src="assets/demo/demo.mp4" controls="controls" width="300"></video>
+🔗 **[Voir la Vidéo de Démonstration sur Google Drive](https://drive.google.com/file/d/1Cmad39MtZvcxImkahAhyaZ7oRNEZqF3H/view?usp=sharing)**
 
 ## Technologies Utilisées
 - **Langage :** Java
